@@ -6,9 +6,11 @@ Mi equipo dentro de la organización Sistem 2022 se llama Utenianos
 
 ### Trabajamos en los siguientes lenguajes 
 <a href="https://postimg.cc/kBVGwN5T" target="_blank"><img src="https://i.postimg.cc/kBVGwN5T/Phytongif.gif" alt="Phytongif"/></a>
-<a href="https://postimg.cc/ppWppbvv" target="_blank"><img src="https://i.postimg.cc/ppWppbvv/javagif.gif" alt="javagif"/></a>
+
 <a href="https://postimg.cc/9zCw6qrJ" target="_blank"><img src="https://i.postimg.cc/9zCw6qrJ/jsgif.gif" alt="jsgif"/></a>
 
+<a href="https://postimg.cc/ppWppbvv" target="_blank"><img src="https://i.postimg.cc/ppWppbvv/javagif.gif" alt="javagif"/></a>
 
 ### Utilizamos metodología Scrum Master dento del proyecto para la  organización de isues.
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/kXxBKxNx/Banner-Metodo-Scrum-UTN.gif" alt="Banner-Metodo-Scrum-UTN"/></a>
+
+<a href="https://postimg.cc/zVGz1HcB" target="_blank"><img src="https://i.postimg.cc/zVGz1HcB/Banner-Metodo-Scrum-UTN.gif" alt="Banner-Metodo-Scrum-UTN"/></a>
